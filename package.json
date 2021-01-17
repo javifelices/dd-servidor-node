@@ -1,0 +1,24 @@
+{
+  "name": "dd01-servidor-node",
+  "version": "1.0.0",
+  "description": "Servidor web node para pruebas (mini curso node Dorian Desings)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifelices/dd-servidor-node.git"
+  },
+  "keywords": [
+    "servidor",
+    "web",
+    "node"
+  ],
+  "author": "Javi Felices (@javifelices)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javifelices/dd-servidor-node/issues"
+  },
+  "homepage": "https://github.com/javifelices/dd-servidor-node#readme"
+}
